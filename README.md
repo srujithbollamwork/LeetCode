@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srujithbollamwork/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/srujithbollamwork/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/srujithbollamwork/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0485-max-consecutive-ones](https://github.com/srujithbollamwork/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
