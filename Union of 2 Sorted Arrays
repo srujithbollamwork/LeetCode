@@ -15,3 +15,68 @@ Constraints:
 
 1 ≤ a.size(), b.size() ≤ 105
 -109 ≤ a[i], b[i] ≤ 109
+
+
+class Solution {
+    public static ArrayList<Integer> findUnion(int a[], int b[]) {
+        // code here
+        
+        
+        int i = 0;
+        int j = 0;
+        
+        ArrayList<Integer> result = new ArrayList<>();
+        
+        while (i < a.length && j < b.length) {
+            
+            int value = 0;
+            
+            if (a[i] < b[j]) {
+                
+                value = a[i];
+                i++;
+            }
+            
+            else if (a[i] > b[j]) {
+                
+                value = b[j];
+                j++;
+            }
+            
+            else {
+                
+                value = a[i];
+                i++;
+                j++;
+            }
+            
+            if (result.isEmpty() || result.get(result.size() - 1) != value) {
+                
+                result.add(value);
+            }
+        }
+        
+        while (i < a.length) {
+            
+            if (result.isEmpty() || result.get(result.size() - 1) != a[i]) {
+                
+                result.add(a[i]);
+            }
+            
+            i++;
+        }
+        
+        
+        while (j < b.length) {
+            
+            if (result.isEmpty() || result.get(result.size() - 1) != b[j]) {
+                
+                result.add(b[j]);
+            }
+            
+            j++;
+        }
+        
+        return result;
+    }
+}
