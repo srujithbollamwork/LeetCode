@@ -55,8 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srujithbollamwork/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/srujithbollamwork/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/srujithbollamwork/LeetCode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/srujithbollamwork/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/srujithbollamwork/LeetCode/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/srujithbollamwork/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
