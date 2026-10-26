@@ -1,0 +1,38 @@
+Name and Value Sorting
+
+You are given names and their corresponding values.
+
+Sort by:
+
+1. Value in descending order.
+2. Name in lexicographical (A–Z) order when values are equal.
+
+Example:
+
+Input:
+
+Vijay 90
+Ajay 80
+Bunny 90
+Arun 80
+Charmi 95
+
+Output:
+
+Charmi 95
+Bunny 90
+Vijay 90
+Ajay 80
+Arun 80
+
+Python 
+
+n = int(input())
+students = []
+
+for i in range(n):
+  names, values = input().split()
+  students.sort(key = lambda.x: (-x[1], x[0]))
+
+for names, values in students:
+  print(names, values)
