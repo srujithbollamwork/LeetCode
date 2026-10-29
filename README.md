@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srujithbollamwork/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/srujithbollamwork/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srujithbollamwork/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/srujithbollamwork/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/srujithbollamwork/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/srujithbollamwork/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/srujithbollamwork/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srujithbollamwork/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/srujithbollamwork/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/srujithbollamwork/LeetCode/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/srujithbollamwork/LeetCode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/srujithbollamwork/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/srujithbollamwork/LeetCode/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/srujithbollamwork/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/srujithbollamwork/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/srujithbollamwork/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/srujithbollamwork/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/srujithbollamwork/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
