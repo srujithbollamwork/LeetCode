@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/srujithbollamwork/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/srujithbollamwork/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/srujithbollamwork/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1929-concatenation-of-array](https://github.com/srujithbollamwork/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srujithbollamwork/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/srujithbollamwork/LeetCode/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/srujithbollamwork/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srujithbollamwork/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
